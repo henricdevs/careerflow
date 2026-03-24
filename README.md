@@ -15,19 +15,19 @@ CareerFlow is a simple PHP-based system I built to track my job applications in 
 
 ### Login Page
 
-![Login](careerflow/screenshots/login.png)
+![Login](screenshots/login.png)
 
 ### Dashboard
 
-![Dashboard](careerflow/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Add Application
 
-![Add Application](careerflow/screenshots/add-application.png)
+![Add Application](screenshots/add-application.png)
 
 ### Application List
 
-![Applications](careerflow/screenshots/applications.png)
+![Applications](screenshots/applications.png)
 
 ## How to Run
 
